@@ -1,0 +1,18 @@
+{
+  "name": "com.mythbox.triviasystem",
+  "version": "1.0.0",
+  "displayName": "Trivia System",
+  "description": "This is a system for collecting characters to create words",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "keywords": [
+    "trivia"
+  ],
+  "author": {
+    "name": "Musab Kara",
+    "email": "musabkara1990@gmail.com"
+  },
+  "type": "module"
+}
