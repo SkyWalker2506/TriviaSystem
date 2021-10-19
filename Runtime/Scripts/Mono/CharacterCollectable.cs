@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using TMPro;
 
 namespace TriviaSystem
 {
@@ -6,5 +7,4 @@ namespace TriviaSystem
     {
 
     }
-
 }
